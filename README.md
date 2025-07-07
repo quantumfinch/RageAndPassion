@@ -12,14 +12,15 @@ On my computer it runs properly as soon as its on the folder. No other mods requ
 
 Current stuff added
 Ships:
-Phase wolf
-Phase/shield wolf
+* Phase wolf
+* Phase/shield wolf
+-All added to player faction as a BLUEPRINT. So you still need to produce them yourself. 
 
 Hullmods:
-Overload cloak
-Reflector shield
+* Overload cloak
+* Reflector shield
+-All unlocked by default currently
 
-
-This is a work in progress and subject to change often. All hullmods are instantly added to known ones as of 7/7/2025
+This is a work in progress and subject to change often. 
 
 Some things compile in java 7 for a reason I cannot fathom, since the game v98a is supposed to be on 17?!
