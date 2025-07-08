@@ -16,9 +16,12 @@ Ships:
 * Phase/shield wolf
 -All added to player faction as a BLUEPRINT. So you still need to produce them yourself. 
 
+Fighters
+* Xyphos pdd
+
 Hullmods:
 * Overload cloak
-* Reflector shield
+* Reflector shield (reworked based on a damage listener, referred to said listener by juice-stain in reddit)
 -All unlocked by default currently
 
 This is a work in progress and subject to change often. 
