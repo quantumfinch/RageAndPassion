@@ -365,7 +365,7 @@
 	},
 	"knownFighters":{
 		"tags":["base_bp"],
-		"fighters":[
+		"fighters":["xyphos_wing_pdd"
 		],
 	},
 	"priorityFighters":{
