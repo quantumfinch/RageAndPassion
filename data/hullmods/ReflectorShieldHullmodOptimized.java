@@ -21,8 +21,8 @@ public class ReflectorShieldHullmodOptimized extends BaseHullMod {
     
 
     private ReflectorShieldPlugin reflectorListener = new ReflectorShieldPlugin();
-    private static final Color reflectShieldColorRing = new Color(15, 12, 128,200);
-    private static final Color reflectShieldColorInterior = new Color(15, 12, 128,150);
+    private static final Color reflectShieldColorRing = new Color(15, 128, 128,200);
+    private static final Color reflectShieldColorInterior = new Color(15, 128, 128,150);
     private static final HashMap<ShipVariantAPI,ShipColorScheme> registeredColors = new HashMap<ShipVariantAPI,ShipColorScheme>();
     private static final Logger LOG = Logger.getLogger(ReflectorShieldHullmodOptimized.class);
     @Override

@@ -1,0 +1,47 @@
+{
+  "id": "mj_pc_shot",
+  "specClass": "projectile",
+  "type": "ENERGY",
+  "size": "MEDIUM",
+  "collisionClass": "NONE", 
+  "collisionRadius": 5000,
+  "spawnType":"BALLISTIC",
+  "collisionClassByFighter":"NONE",
+  "onFireEffect":"data.weapons.mj_pc_shotEffect",
+  "passThroughMissiles": true,
+  "flame": {
+    "length": 50.0,
+    "width": 10.0,
+    "texture": "graphics/fx/muzzle_flash_mjolnir.png",
+    "color": [255, 150, 50, 255]
+  },
+  "sprite": "graphics/projectiles/mjolnir_shot.png",
+  "glowSprite": "graphics/projectiles/mjolnir_shot_glow.png",
+  "glowColor": [255, 100, 0, 255],
+  "hitGlowRadius": 50,
+  "pixelsPerSecond": 1000,
+  "travelSound": "mjolnir_fire",
+  "explosionSound": "mjolnir_impact",
+  "explosionColor": [255, 165, 0, 255],
+  
+  "armingTime": 0,
+  "fadeTime": 0.3,
+  "noGlowTime": 0.0,
+  "fringeColor": [255, 165, 0, 0],
+  "coreColor": [255, 255, 255, 255],
+  "width": 16.0,
+  "length": 30.0,
+  "hitpoints": 100,
+  "damage": {
+    "type": "ENERGY",
+    "damage": 100,
+    "flux": 0, 
+    "dps": 0,
+    "emp": 0,
+    "minDamage": 0,
+    "shieldDamageMult": 0, 
+    "hullDamageMult": 1,
+    "armorDamageMult": 1 
+  },
+  "behavior": "NONE" 
+}

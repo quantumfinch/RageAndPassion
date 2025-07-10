@@ -375,7 +375,8 @@
 	},
 	"knownWeapons":{
 		"tags":["base_bp"],
-		"weapons":[
+		"weapons":["mjolnir_pierce",
+		"mj_pc"
 		],
 	},
 	"priorityWeapons":{
